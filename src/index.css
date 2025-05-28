@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    color: rgb(60, 33, 33);
+    font-family: "Papyrus", fantasy;
+  }
+  
+  body {
+    background: #78c97a;
+  }
+  
+  #root {
+    padding: 1rem;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    padding: 0.25rem 0.5rem;
+  }
+  
